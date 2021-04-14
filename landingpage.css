@@ -1,0 +1,38 @@
+html{
+    height:100%;
+}
+
+hr{
+    text-align: left;
+    background-color:#296d98;
+    width:400px;
+}
+
+div.video{
+  margin-top: 1%;
+  text-align: center;
+}
+
+div.container{
+  margin-top: 2%;
+  text-align: left;
+}
+
+p.team{
+  text-align:center;
+  color:#096687;
+}
+
+img.team{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius:50%;
+  height:65%;
+  width:100%;
+}
+
+img.copyright{
+  height:10%;
+  width:1.2%;
+}
